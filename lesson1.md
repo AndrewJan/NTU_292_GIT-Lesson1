@@ -17,3 +17,9 @@ AndrewJan
 - 吃飯
 - 電玩
 - 寫程式
+
+我最喜歡的程式語言
+---------------
+- C/C++
+- FORTRAN
+- Javascript
